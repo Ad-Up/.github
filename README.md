@@ -19,21 +19,6 @@ AdUp is a **next-generation platform** that helps online businesses grow faster 
 
 ### ✨ How It Works
 
-```mermaid
-graph LR
-    A[📊 Data Sources] --> B[🧠 AI Analytics]
-    B --> C[💡 Smart Insights]
-    C --> D[🎯 Actionable Recommendations]
-    D --> E[📈 Business Growth]
-    
-    A --> F[Shopify]
-    A --> G[HubSpot]
-    A --> H[Google Analytics]
-    A --> I[Stripe]
-```
-
-### 🔧 Our Three-Step Process
-
 1. **📡 Data Unification** - Pull in data from multiple sources (sales, traffic, ads, email, support tools)
 2. **🧠 Analysis & Insights** - Use AI to analyze trends, spot issues, and surface key patterns
 3. **💡 AI Recommendations** - Get personalized, actionable recommendations to optimize your business
